@@ -10,140 +10,146 @@
                 "url": "https://res.cloudinary.com/coffee-lovers/image/upload/v1608062030/products/7dfg98h32lgw8sdl93j.jpg"
             }
         ],
-        "category": "",
+        "category": "Americano",
         "seller": "Coffee Lovers",
         "stock": 100,
         "numOfReviews": 55,
         "reviews": []
     },
     {
-        "name" : "CAN USB FD Adapter (GC-CAN-USB-FD)",
-        "price" : "315.00",
-        "description" : "Monitor a CAN network, write a CAN program and communicate with industrial, medical, automotive or other CAN based device. Connect CAN FD and CAN networks to a computer via USB with the CAN USB FD adapter.",
-        "ratings" : 1.65,
-        "images" : [{
-            "public_id" : "products/61oXGZ60GfL_fixco9",
-            "url" : "https://res.cloudinary.com/bookit/image/upload/v1614877995/products/61oXGZ60GfL_fixco9.jpg"
-        }],
-        "category" : "Electronics",
-        "seller" : "Amazon",
-        "stock" : 0,
-        "numOfReviews" : 2,
-        "reviews": []
-    },
-    {
-        "name" : "CHARMOUNT Full Motion TV Wall Mount Swivel",
-        "price" : "26.99 ",
-        "description" : "CHARMOUNT TV MOUNT UNIVERSAL DESIGN - Has your TV been received? Tilted TV wall mount is for 26 - 55 TVs weight up to 88lbs 40 kg. Our tilt TV mount has a compatible faceplate that fits VESA 75X75mm (3x3). CHARMOUNT TV MOUNT UNIVERSAL DESIGN - Has your TV been received? Tilted TV wall mount is for 26 - 55 TVs weight up to 88lbs 40 kg. Our tilt TV mount has a compatible faceplate that fits VESA 75X75mm (3x3) CHARMOUNT TV MOUNT UNIVERSAL DESIGN - Has your TV been received? Tilted TV wall mount is for 26 - 55 TVs weight up to 88lbs 40 kg. Our tilt TV mount has a compatible faceplate that fits VESA 75X75mm (3x3).",
-        "ratings" : 3.5,
-        "images" : [{
-            "public_id" : "products/chairmount_nuubea",
-            "url" : "https://res.cloudinary.com/bookit/image/upload/v1606231285/products/chairmount_nuubea.jpg"
-        }],
-        "category" : "Electronics",
-        "seller" : "Amazon",
-        "stock" : 1,
-        "numOfReviews" : 12,
-        "reviews": []
-    },
-    {
-        "name" : "Bose QuietComfort 35 II Wireless Bluetooth Headphones",
-        "price" : "299.00 ",
-        "description" : "What happens when you clear away the noisy distractions of the world? Concentration goes to the next level. You get deeper into your music, your work, or whatever you want to focus on. That’s the power of Bose QuietComfort 35 wireless headphones II. Put them on and get closer to what you’re most passionate about. And that’s just the beginning. QuietComfort 35 wireless headphones II are now enabled with Bose AR",
-        "ratings" : 4.5,
-        "images" : [{
-            "public_id" : "products/headphones_t2afnb",
-            "url" : "https://res.cloudinary.com/bookit/image/upload/v1606231281/products/headphones_t2afnb.jpg"
-        }],
-        "category" : "Headphones",
-        "seller" : "Amazon",
-        "stock" : 11,
-        "numOfReviews" : 112,
-        "reviews": []
-    },
-    {
-        "name" : "Apple AirPods with Charging Case (Wired)",
-        "price" : "126.99 ",
-        "description" : "AirPods with Charging Case: More than 24 hours listening time, up to 18 hours talk time; AirPods (single charge): Up to 5 hours listening time, up to 3 hours talk time or 15 minutes in the case equals up to 3 hours listening time or up to 2 hours talk time.",
-        "ratings" : 4.8,
-        "images" : [{
-            "public_id" : "products/airpords_e5cqqr",
-            "url" : "https://res.cloudinary.com/bookit/image/upload/v1606231282/products/airpords_e5cqqr.jpg"
-        }],
-        "category" : "Electronics",
-        "seller" : "Amazon",
-        "stock" : 122,
-        "numOfReviews" : 2671,
-        "reviews": []
-    },
-    {
-        "name" : "Cable Boom Microphone - Volume Control for Playstation PS4 or Xbox",
-        "price" : "27.99",
-        "description" : "DESIGN INFO - 3.5mm male to 2.5mm male audio cable adapter with Upgraded Flexible, Detachable Boom Mic which also enables rotary Volume Control and Mute Switch. SteelFlex Arm for perfect microphone positioning. INPUT COMPATIBILITY - Devices supporting 3.5mm audio output such as gaming PS4 / Xbox One controller, PC, Laptop, iPhone and Android Phone.",
-        "ratings" : 4.1,
-        "images" : [{
-            "public_id" : "products/eahhtj1bkn1k9gjgd3hn",
-            "url" : "https://res.cloudinary.com/bookit/image/upload/v1606233125/products/eahhtj1bkn1k9gjgd3hn.jpg"
-        }],
-        "category" : "Accessories",
-        "seller" : "Amazon",
-        "stock" : 1123,
-        "numOfReviews" : 6,
-        "reviews": []
-    },
-    {
-        "name" : "Nikon D3500 W/ AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR Black ",
-        "price" : "496.95",
-        "description" : "You don't need to be a photographer to know a great photo when you see one. And you don't need to be a photographer to take a great photo—you just need the D3500. It's as easy to use as a point-and-shoot, but it takes beautiful DSLR photos and videos that get noticed. It feels outstanding in your hands, sturdy and balanced with controls where you want them. It's compact, durable and versatile, ideal for travel. And it works seamlessly with compatible smartphones, making it easier than ever to share your great photos. Even if you've never picked up a DSLR camera, you can take beautiful pictures with D3500.",
-        "ratings" : 4.7,
-        "images" : [{
-            "public_id" : "products/camera_ridc0i",
-            "url" : "https://res.cloudinary.com/bookit/image/upload/v1606231283/products/camera_ridc0i.jpg"
-        }],
-        "category" : "Cameras",
-        "seller" : "Amazon",
-        "stock" : 131,
-        "numOfReviews" : 222,
-        "reviews": []
-    },
-    {
-        "name" : "Apple MacBook Air (13-inch, 8GB RAM, 256GB SSD Storage) - Space Gray ",
-        "price" : "949.99",
-        "description" : "Stunning 13.3-inch Retina display with True Tone technology, Backlit Magic Keyboard and Touch ID, Tenth-generation, Intel Core i3 processor, Intel Iris Plus Graphics, Fast SSD storage, 8GB of memory, Stereo speakers with wider stereo sound",
-        "ratings" : 4.9,
-        "images" : [{
-            "public_id" : "products/macbook_o2cj2k",
-            "url" : "https://res.cloudinary.com/bookit/image/upload/v1606231282/products/macbook_o2cj2k.jpg"
-        }],
-        "category" : "Laptops",
-        "seller" : "Amazon",
-        "stock" : 0,
-        "numOfReviews" : 56,
-        "reviews": []
-    },
-    {
-        "name" : "Kauffman Orchards Homegrown McIntosh Apples",
-        "price" : "2.75",
-        "description" : "McIntosh is a pretty red/green apple with white flesh Homegrown in Kauffman's orchard in healthy Lancaster County soil McIntosh apples are famous for snacking, pies, salads, and applesauce Protected with soft, high-density foam for safe shipping to your door Not for sale to California, Oregon, or Washington due to state laws governing fresh produce",
-        "ratings" : 5,
-        "images" : [
+        "name": "Italian Espresso Blend",
+        "price": "14.99",
+        "description": "Indulge in the intense and bold flavors of our Italian Espresso Blend. This 250g bag of finely ground coffee beans is perfect for brewing your favorite espresso shots. Roasted to perfection to deliver a strong and robust coffee experience.",
+        "ratings": 4.6,
+        "images": [
             {
-                "public_id" : "products/wmoa49q9e70ze9xtcra2",
-                "url" : "https://res.cloudinary.com/bookit/image/upload/v1606293153/products/wmoa49q9e70ze9xtcra2.jpg"
-            },
-            {
-                "public_id" : "products/i0k1wdwi5hrpmzwxvsds",
-                "url" : "https://res.cloudinary.com/bookit/image/upload/v1606293152/products/i0k1wdwi5hrpmzwxvsds.jpg" 
-            },
-            {
-                "public_id" : "products/bshmuo9qisfhz4azvnsd",
-                "url" : "https://res.cloudinary.com/bookit/image/upload/v1606293153/products/bshmuo9qisfhz4azvnsd.jpg"
+                "public_id": "products/8jdh39k2jsl8hs9d7fg",
+                "url": "https://res.cloudinary.com/coffee-lovers/image/upload/v1608062030/products/8jdh39k2jsl8hs9d7fg.jpg"
             }
-    ],
-        "category" : "Food",
-        "seller" : "Kauffman's Fruit Farm & Market",
-        "stock" : 500,
-        "numOfReviews" : 1,
+        ],
+        "category": "Espresso",
+        "seller": "Coffee Lovers",
+        "stock": 75,
+        "numOfReviews": 40,
         "reviews": []
-    }
+    },
+    {
+        "name": "Vanilla Latte Mix",
+        "price": "9.99",
+        "description": "Create the perfect Vanilla Latte at home with our Latte Mix. This 16oz jar of creamy mix is infused with rich vanilla flavor. Just add to your espresso for a delightful latte experience.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "products/3dfk8s23v9ksd88h3j4",
+                "url": "https://res.cloudinary.com/coffee-lovers/image/upload/v1608062030/products/3dfk8s23v9ksd88h3j4.jpg"
+            }
+        ],
+        "category": "Latte",
+        "seller": "Coffee Lovers",
+        "stock": 60,
+        "numOfReviews": 35,
+        "reviews": []
+    },
+    {
+        "name": "Dark Chocolate Mocha Mix",
+        "price": "11.99",
+        "description": "Indulge in the delightful combination of dark chocolate and coffee with our Mocha Mix. This 12oz canister is perfect for creating rich and decadent mochas in the comfort of your home.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "products/9fdj4k56gj2w8sl29d0",
+                "url": "https://res.cloudinary.com/coffee-lovers/image/upload/v1608062030/products/9fdj4k56gj2w8sl29d0.jpg"
+            }
+        ],
+        "category": "Mocha",
+        "seller": "Coffee Lovers",
+        "stock": 50,
+        "numOfReviews": 28,
+        "reviews": []
+    },
+    {
+        "name": "Cold Brew Coffee Concentrate",
+        "price": "16.99",
+        "description": "Experience the smooth and refreshing taste of our Cold Brew Coffee Concentrate. This 32oz bottle is perfect for making iced coffee at home. Just dilute with water or milk and enjoy!",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "products/7gfh39l2skj38lw89f4",
+                "url": "https://res.cloudinary.com/coffee-lovers/image/upload/v1608062030/products/7gfh39l2skj38lw89f4.jpg"
+            }
+        ],
+        "category": "Cold Brew",
+        "seller": "Coffee Lovers",
+        "stock": 70,
+        "numOfReviews": 42,
+        "reviews": []
+    },
+    {
+        "name": "Cappuccino Instant Coffee Mix",
+        "price": "8.99",
+        "description": "Enjoy the frothy and creamy goodness of our Cappuccino Instant Coffee Mix. This 8oz jar of mix is a quick and convenient way to make your favorite cappuccinos at home.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "products/6sdfg2ks8h3ljd4gh9s",
+                "url": "https://res.cloudinary.com/coffee-lovers/image/upload/v1608062030/products/6sdfg2ks8h3ljd4gh9s.jpg"
+            }
+        ],
+        "category": "Cappuccino",
+        "seller": "Coffee Lovers",
+        "stock": 55,
+        "numOfReviews": 38,
+        "reviews": []
+    },
+    {
+        "name": "Strong Black Coffee",
+        "price": "10.99",
+        "description": "For the true black coffee lovers, we present our Strong Black Coffee. This 1lb bag of ground coffee offers a robust and bold coffee experience without any additives or flavors.",
+        "ratings": 4.6,
+        "images": [
+            {
+                "public_id": "products/4d8h2h3lksjdfg89gj",
+                "url": "https://res.cloudinary.com/coffee-lovers/image/upload/v1608062030/products/4d8h2h3lksjdfg89gj.jpg"
+            }
+        ],
+        "category": "Black Coffee",
+        "seller": "Coffee Lovers",
+        "stock": 65,
+        "numOfReviews": 45,
+        "reviews": []
+    },
+    {
+        "name": "Caramel Frappuccino Mix",
+        "price": "13.99",
+        "description": "Satisfy your sweet cravings with our Caramel Frappuccino Mix. This 16oz jar of mix is perfect for creating delightful caramel frappuccinos with a hint of coffee and creaminess.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "products/2df7jsh9l2kjsdh83fg",
+                "url": "https://res.cloudinary.com/coffee-lovers/image/upload/v1608062030/products/2df7jsh9l2kjsdh83fg.jpg"
+            }
+        ],
+        "category": "Frappuccino",
+        "seller": "Coffee Lovers",
+        "stock": 60,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Affogato Kit",
+        "price": "17.99",
+        "description": "Indulge in the classic Italian dessert with our Affogato Kit. This kit includes high-quality espresso coffee and premium vanilla ice cream, allowing you to create perfect affogato servings at home.",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "products/5d9fgk8sh23lksjgj4",
+                "url": "https://res.cloudinary.com/coffee-lovers/image/upload/v1608062030/products/5d9fgk8sh23lksjgj4.jpg"
+            }
+        ],
+        "category": "Affogato",
+        "seller": "Coffee Lovers",
+        "stock": 48,
+        "numOfReviews": 30,
+        "reviews": []
+    }    
 ]
